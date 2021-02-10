@@ -40,7 +40,7 @@ Fel arall, gallwch lawrlwytho’r pecyn o wefan Speechocean a’i osod ar eich f
 ![](/assets/images/1.png)
 2. Rhaid i’r cyfrinair fod ag o leiaf 8 nod gan gynnwys llythrennau a rhifau.
 ![](/assets/images/2.png)
-3. Mae rhaid i lewni pob maes uchod. Mae’r data yn cael eu defnyddio i sicrhau nad yw pobl yn cofrestru ddwywaith am y prosiect drwy gamgymeriad. Does dim rhaid i ddarparu cerdyn ID na chyfryngau cymdeithasol go iawn.
+3. Mae rhaid i lewni pob maes isod. Mae’r data yn cael eu defnyddio i sicrhau nad yw pobl yn cofrestru ddwywaith am y prosiect drwy gamgymeriad. Does dim rhaid i ddarparu cerdyn ID na chyfryngau cymdeithasol go iawn.
 ![](/assets/images/3.png)
 **Rydych nawr wedi cofrestru cyfrif i’w ddefnyddio gyda’r feddalwedd hon.**
 
@@ -50,7 +50,7 @@ Fel arall, gallwch lawrlwytho’r pecyn o wefan Speechocean a’i osod ar eich f
 2. Rhowch god y prosiect yn y blwch a pwyswch y saeth i’r dde.
 ![](/assets/images/5.png)
 ***LS100611225408*** ydy cod y prosiect hwn.
-3. Cofnodwch y cod yn y blwch coch uchod. Bydd rhaid i chi ddarparu’r cod hwn pan fyddwch chi’n gadael inni wybod eich bod chi wedi cwblhau’r tasg.
+3. Cofnodwch y cod yn y blwch coch isod. Bydd rhaid i chi ddarparu’r cod hwn pan fyddwch chi’n gadael inni wybod eich bod chi wedi cwblhau’r tasg.
 Pwyswch OK i gychwyn.
 ![](/assets/images/6.png)
 Bydd tiwtorial yr ap yn ymddangos sy’n esbonio sut mae defnyddio botymau’r ap i recordio’ch llais.
@@ -76,9 +76,9 @@ Ar ôl mewngofnodi, pwyswch ar Upload ac yna ar Finish. Bydd yr ap yn cywasgu’
 Er mwyn bodloni gofynion y prosiect, bydd rhaid i chi ddarparu data ychwanegol amdanoch chi eich hun, eich ffôn symudol a’ch rhifau prosiect.
 ![](/assets/images/15.png)
 Fel yn y llun uchod, bydd rhaid i chi ddarparu’r **dyddiad wnaethoch chi gwblhau recordio, rhif y sgript, eich enw, rhywedd, oedran, rhif ffôn ddefnyddiwyd wrth gofrestru, tref enidigol a cod y sgript wedi’i recordio**.
-![](/assets/images/.png)
+![](/assets/images/10.png)
 Ar ôl i chi uwchlwytho’r recordiadau, bydd rhaid i chi bwyso ar Copy & Share. Bydd y neges ganlynol yn ymddangos:
-![](/assets/images/.png)
+![](/assets/images/11.png)
 Bydd rhif y sgript a rhif cod eich recordiad yn cael eu copio i’r clipfwrdd, gallwch ludo (paste) y codau mewn ymateb e-bost neu WhatsApp. Cofiwch ddarparu manylion am eich ffôn a’ch hun. Os byddwch yn cael trafferth wrth gopio a gludo’r cod, gallwch bwyso ar y botwn Share coch uchod a dewis anfon y codau drwy e-bost neu WhatsApp.
 
 ## Oedi a pharhau recordio
@@ -88,9 +88,9 @@ Er mwyn parhau o le rydych chi wedi gorffen y tro diwethaf, bydd rhaid i glicio 
 
 ## Gadael y prosiect
 Gallwch adael y prosiect am byth ar unrhyw bryd. Drwy wneud hyn, bydd eich recordiadau’n cael eu dileu a byddwch yn tynnu allan o’r prosiect.
-![](/assets/images/.png)
+![](/assets/images/12.png)
 I adael y prosiect pwyswch y tri dot ar gornel dde uchaf y sgrin fel yn y llun isod. 
-![](/assets/images/.png)
+![](/assets/images/13.png)
 
 # Manylion talu
 Bydd pob person sy’n cwblhau’r tasg yn iawn yn derbyn **£17.50** ar gyfer recordio’i llais. Mae rhaid i’r recordiadau fod yn glir heb ormod o sŵn yn y cefndir, os nad ydyn nhw’n bodloni gofynion y datblygwyr bydd rhaid i chi ailrecordio’r prosiect.
